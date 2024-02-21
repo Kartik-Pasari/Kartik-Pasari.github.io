@@ -1,0 +1,80 @@
+.lw { font-size: 60px; }
+body{
+    background-image: url(//encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBfhC-QlgM4DmR6VXrznFyXdNwytV9-SOMw&usqp=CAU);
+}
+#Aboutme{
+    border: 2pt black double;
+    background-color: lightsalmon;
+}
+h1{
+    color: red;
+}
+strong{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    text-align: left;
+}
+img{
+    height: 172pt;
+    width: 172pt;
+    image-orientation:right;
+}
+#a1{
+    
+    padding-bottom: 100px;
+}
+#a2{
+    font-family: sans-serif;
+    color: blue;
+}
+#table1{
+    border: 2pt black double;
+    background-color: light blue;
+    
+}
+#tr1{
+    border: 2pt black double;
+  
+}
+#Education{
+    background-color: lightblue;
+}
+.spacing{
+    border: 2pt  black solid;
+    padding: 10pt;
+    text-align: center;
+    
+}
+
+
+th{
+    border: 2pt  black solid;
+    text-align: center;
+    padding: 10pt;
+    text-decoration: underline;
+}
+
+td{
+    border: 2pt  black solid;
+    padding: 10pt;
+     text-align: center;
+}
+#COURSES{
+        display: flex;
+}
+#first{
+    border: 2pt  black solid;
+    background-color: green;
+    
+}
+#second{
+    border: 2pt  black solid;
+    background-color: green;
+}
+ol{
+    list-style-type: lower-roman;
+    text-align: justify;
+}
+#hobbies{
+    background-color: darkcyan;
+}
